@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "898925910253",
+    "firebase_url": "https://measurear-cc453.firebaseio.com",
+    "project_id": "measurear-cc453",
+    "storage_bucket": "measurear-cc453.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898925910253:android:ca88a3d9af44897ea0d4e4",
+        "android_client_info": {
+          "package_name": "com.aswin.measurear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898925910253-fsv6ki0jmocgjqinmgq748dn60u9v7t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aswin.measurear",
+            "certificate_hash": "3235c51f593d1bd02f2e0c100aa90a683a0b0cba"
+          }
+        },
+        {
+          "client_id": "898925910253-auco32strd6tet84dsu97olei8822iat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT69IMFOLjSZxDMj1j7PJG2HI5KovQT4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898925910253-auco32strd6tet84dsu97olei8822iat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
